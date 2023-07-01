@@ -21,7 +21,15 @@
 ## Conclusions
  - Identification of strong drivers for loan default
     - Term size
-    - 
+    - Income
+    - Loan amount
+    - Purpose
+    - Public records
+    - Total credit lines (derive closed credit lines)
+
+- Identification of other drivers
+    - State
+
 
 
 ## Technologies Used
