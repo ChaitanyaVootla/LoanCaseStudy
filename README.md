@@ -26,6 +26,8 @@
     - Purpose
     - Public records
     - Total credit lines (derive closed credit lines)
+    - Credit utilization
+    - Debt to income ratio
 
 - Identification of other drivers
     - State
