@@ -1,4 +1,25 @@
 gaps:
  - new column creation
+    status:
+
  - add descriptive comments to each analysis section
- - convert us state map to jpeg
+    status:
+
+ - convert us state map to jpeg 
+    status: Unable to convert
+
+
+Doubts : 
+
+    How is funded_amnt, annual_income, int_rate range is defined in the comments
+    Eg: interest rate usually b/w 6% & 15%
+
+
+Parts Left : 
+
+    - Check for adding segmented univariate analysis
+    - Adding relevant descriptive headings & comments
+    - Aligning headings
+    - Prepaing the pdf file
+    
+
