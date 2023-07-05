@@ -1,5 +1,9 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+## Table of Contents
+* [Project Description](#project-description)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Contributors](#contributors)
 
 # Project Description
 The project involves working for a consumer finance company that specializes in lending loans to urban customers. When the company receives a loan application, it needs to make a decision on whether to approve the loan or not based on the applicant's profile. The decision is crucial because it involves two types of risks:
@@ -18,21 +22,13 @@ The loan decisions made by the company can result in three scenarios:
 
     * Loan rejected: The company rejects the loan application, usually due to the applicant not meeting their requirements or other factors. Since the loan is rejected, there is no transactional history available for these applicants in the company's dataset. 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Technologies Used
+- NumPy - version 1.23.5
+- Pandas - version 1.5.3
+- Matplotlib - version 3.7.0
+- Seaborn- version 0.12.2
 
 ## Conclusions
  - Identification of strong drivers for loan default
@@ -44,26 +40,7 @@ The loan decisions made by the company can result in three scenarios:
     - Total credit lines (derived closed credit lines)
     - Credit utilization
     - Debt to income ratio
-
-- Identification of other drivers
     - State
-
-
-
-## Technologies Used
-- NumPy - version 1.23.5
-- Pandas - version 1.5.3
-- Matplotlib - version 3.7.0
-- Seaborn- version 0.12.2
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contributors
 * [Chaitanya Vootla](https://github.com/ChaitanyaVootla )
